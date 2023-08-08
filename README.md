@@ -8,19 +8,19 @@ This project demonstrates how to use Scrapy to scrape data from the website http
 
 ```bash
 git clone https://github.com/bensouiciakram/toscrape.com-scraper.git
-'''
+```
 
 2.Navigate to the project directory :
 
 ```bash
 cd toscrape.com-scaper
-'''
+```
 
 3. Install the required dependencies using pip.
 
 ```bash
 pip install scrapy
-'''
+```
 
 ## Usage
 
@@ -28,7 +28,7 @@ pip install scrapy
 
 ```bash
 scrapy crawl infos 
-'''
+```
 
 2. The scraped data will be saved in the output.csv file in the project directory.
 
